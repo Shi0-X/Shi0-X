@@ -3,7 +3,7 @@ Desarrollador Fullstack en formación | Apasionado por la tecnología y el desar
 
 📜 Sobre mí
 Soy un desarrollador Fullstack en formación en Códica, con experiencia práctica en proyectos web que abarcan tanto frontend como backend. Actualmente, desarrollo habilidades en tecnologías clave como JavaScript, React, Node.js, y SEO. Me especializo en crear soluciones web eficientes, escalables y optimizadas para el usuario, y estoy en constante aprendizaje de las mejores prácticas en desarrollo y diseño web.
-
+<br>
 🛠️ Habilidades
 Lenguajes: JavaScript, HTML, CSS
 Frontend: React, AJAX, WebSockets
