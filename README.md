@@ -9,8 +9,8 @@ Lenguajes: JavaScript, HTML, CSS<br>
 Frontend: React<br>
 Backend: Node.js, <br>
 Herramientas y Control de Versiones: Git, GitHub, ESLint, Jest, CodeClimate<br>
-Otros: WordPress, WooCommerce, Elementor, SEO, Auditoría SEO, Hosting<br>
-📁 Proyectos Destacados<br><br>
+Otros: WordPress, WooCommerce, Elementor, SEO, Auditoría SEO, Hosting<br><br>
+📁 Proyectos Destacados<br>
 Brain Games: Colección de juegos de consola interactivos desarrollados en Node.js para mejorar habilidades lógicas.<br>
 Gendiff: Herramienta CLI para comparar archivos de configuración en formatos JSON y YAML, con múltiples opciones de formato de salida.<br><br>
 🔗 Encuéntrame en<br>
