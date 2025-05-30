@@ -1,22 +1,84 @@
-👋 ¡Hola! Soy [Jhon Fandiño | Shi0-X]<br>
-Desarrollador Fullstack en formación | Apasionado por la tecnología y el desarrollo web
+# 👋 ¡Hola! Soy Jhon Fandiño | Shi0-X  
+Desarrollador Web & Fullstack | Apasionado por la tecnología y las soluciones funcionales
 
-📜 Sobre mí
-Soy un desarrollador Fullstack en formación en Códica, con experiencia práctica en proyectos web que abarcan tanto frontend como backend. Actualmente, desarrollo habilidades en tecnologías clave como JavaScript, React, Node.js, y SEO. Me especializo en crear soluciones web eficientes, escalables y optimizadas para el usuario, y estoy en constante aprendizaje de las mejores prácticas en desarrollo y diseño web.
-<br><br>
-🛠️ Habilidades<br>
-Lenguajes: JavaScript, HTML, CSS<br>
-Frontend: React<br>
-Backend: Node.js, <br>
-Herramientas y Control de Versiones: Git, GitHub, ESLint, Jest, CodeClimate<br>
-Otros: WordPress, WooCommerce, Elementor, SEO, Auditoría SEO, Hosting<br><br>
-📁 Proyectos Destacados<br>
-Brain Games: Colección de juegos de consola interactivos desarrollados en Node.js para mejorar habilidades lógicas.<br>
-Gendiff: Herramienta CLI para comparar archivos de configuración en formatos JSON y YAML, con múltiples opciones de formato de salida.<br><br>
-🔗 Encuéntrame en<br>
-LinkedIn: https://www.linkedin.com/in/jhonfandino/<br>
-Perfil de Códica: https://app.codica.la/u/user-2d7db3bbe48b6dbc<br>
-Correo Electrónico: jshi0x@gmail.com<br><br>
-🚀 Objetivo Profesional<br>
-Estoy en búsqueda de oportunidades para poner en práctica mis habilidades en el desarrollo de software y colaborar en proyectos que impacten positivamente en el usuario. Mi objetivo es aportar soluciones tecnológicas innovadoras y crecer profesionalmente en un entorno de aprendizaje continuo.
+## 📌 Sobre mí  
+Soy desarrollador Fullstack + WordPress freelance, Realice mis estudios de desarrollo FullStack en Codica una Academia de Programación Internacional, donde he creado múltiples proyectos que integran tanto frontend como backend, utilizando tecnologías modernas como JavaScript, Node.js, React, y más.
 
+Me gusta construir soluciones útiles, optimizadas y bien organizadas, ya sea creando una tienda en línea, una herramienta de línea de comandos o una app de mensajería. Creo en escribir código limpio, realizar pruebas automatizadas y aprender constantemente nuevas tecnologías para mejorar mi trabajo y entregar resultados confiables.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+**Frontend:** HTML, CSS, JavaScript (ES6+), React, Redux Toolkit, Bootstrap  
+**Backend:** Node.js, Express, Socket.io, PostgreSQL, Knex  
+**Testing y Calidad:** ESLint, Jest, Testing Library, CodeClimate  
+**DevOps y Automatización:** Git, GitHub, GitHub Actions, Makefile, CI/CD  
+**Internacionalización y Validación:** i18next, Yup, Formik  
+**CLI Tools:** Commander.js, Axios, Cheerio, Listr  
+**CMS:** WordPress, Elementor Pro, Jet Elements, WooCommerce  
+**SEO & Web:** SEO Técnico, Auditorías SEO, PageSpeed, Google Search Console  
+**Otros:** Webpack, Asciinema, Render
+
+---
+
+## 💼 Proyectos Destacados
+
+### 🧠 Brain Games  
+**Colección de juegos de consola para ejercitar la lógica y las matemáticas.**  
+Desarrollado en Node.js, incluye juegos como par/impar, cálculo del MCD, progresiones y más.  
+🧪 ESLint · Jest · Makefile · Asciinema
+
+### 🔍 Gendiff  
+**Herramienta CLI para comparar archivos JSON/YAML y mostrar diferencias estructuradas.**  
+Admite formatos de salida stylish, plain y JSON.  
+⚙️ Commander.js · Jest · ESLint · GitHub Actions
+
+### 🌐 PageLoader  
+**Utilidad CLI que descarga una página web completa para verla offline.**  
+Maneja múltiples recursos, control de errores y muestra progreso en consola.  
+🔧 Axios · Cheerio · Listr · fs/promises · debug
+
+### 📡 RSS Reader  
+**Aplicación web que permite gestionar y visualizar feeds RSS en tiempo real.**  
+Con validaciones asincrónicas, internacionalización y actualizaciones automáticas.  
+📚 i18next · Yup · Axios · Webpack · DOM API
+
+### 💬 ChatAPP  
+**Aplicación de mensajería en tiempo real con salas, canales y soporte multilenguaje.**  
+Inspirada en Slack, construida con React y sockets.  
+🧱 Socket.io · React · Redux Toolkit · i18next · Formik · Bootstrap
+
+### ✅ Task Manager  
+**App para gestionar tareas, con autenticación, control de usuarios y filtros por estado.**  
+Construida con backend en Node.js, PostgreSQL y frontend modular.  
+🗃️ Express · PostgreSQL · Knex · REST · JWT · React
+
+---
+
+## 🌍 Sitios Web con WordPress
+
+### 🕹️ Gr-Arena.lat  
+Sitio para torneo internacional de eSports. WooCommerce, pasarelas de pago, blog y multilenguaje.
+
+### 🏗️ Coldex.com.co  
+Sitio corporativo para empresa de demoliciones. Diseño sobrio, contacto directo por WhatsApp.
+
+### 🛒 Todoclic.shop  
+E-commerce de productos variados. WooCommerce, pagos electrónicos y diseño adaptable.
+
+---
+
+## 🚀 Objetivo Profesional  
+Busco colaborar con equipos y proyectos donde pueda aplicar mis habilidades en desarrollo web, seguir aprendiendo y aportar soluciones tecnológicas útiles. Ya sea un sitio corporativo o una herramienta de línea de comandos, mi meta es que funcione, sea clara y útil para el usuario.
+
+---
+
+## 📬 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/jhonfandino/)
+- [WebSite](https://www.shi0x.dev/)  
+- [Perfil en Códica](https://app.codica.la/u/user-2d7db3bbe48b6dbc)  
+- ✉️ jshi0x@gmail.com - jhon@shi0x.dev
+
+---
